@@ -1,5 +1,23 @@
 # Changelog
 
+## [0.4.0](https://github.com/benelan/git-mux/compare/v0.3.0...v0.4.0) (2024-11-03)
+
+
+### Features
+
+* Add more detail in error logs ([724f8be](https://github.com/benelan/git-mux/commit/724f8becfd4b6302ef251b09cad498987aa98220))
+* Add types and doc via EmmyLua annotations ([99bbbf0](https://github.com/benelan/git-mux/commit/99bbbf0e0953c16bfb59995bcee72ec7cfef07dc))
+* Add wezterm support for project command ([8c2c6c5](https://github.com/benelan/git-mux/commit/8c2c6c5366bd1694dd25dfc291cfdc7d07b5cedb))
+* Add wezterm support for task command ([e42aef4](https://github.com/benelan/git-mux/commit/e42aef4a9a94d09ab75e82e5b0b40ccfff1b2eea))
+* **wezterm:** Improve keybinding functionality ([178731d](https://github.com/benelan/git-mux/commit/178731db86a78c2542a475cc55ff6b79f397ca4a))
+
+
+### Bug Fixes
+
+* **project:** Properly exit when selection is canceled ([df353ab](https://github.com/benelan/git-mux/commit/df353abc18a1aa1e764456543c3763b0aaba73fc))
+* **wezterm:** Fix newline for task command execution ([83448eb](https://github.com/benelan/git-mux/commit/83448ebcc28c036ed8d1c8f890f4dbeda23bc85f))
+* **wezterm:** Handle projects with identical task names ([baae236](https://github.com/benelan/git-mux/commit/baae2363c34cbf58b0237c6cf8adce4078793212))
+
 ## [0.3.0](https://github.com/benelan/git-mux/compare/v0.2.0...v0.3.0) (2024-05-01)
 
 

@@ -1,4 +1,4 @@
-% GIT-MUX(1) git mux 0.3.0 | User Manual <!-- x-release-please-version -->
+% GIT-MUX(1) git mux 0.4.0 | User Manual <!-- x-release-please-version -->
 % Ben Elan <no-reply@benelan.dev>
 % 2023-11-27
 
